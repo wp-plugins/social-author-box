@@ -22,6 +22,12 @@ http://www.twitter.com/joe-smith
 3. Add social media profile links on the user profile page
 
 
+== Screenshots ==
+
+1. The plugin pkaced in the sidebar
+2. The plugin configuration options
+
+
 == Changelog ==
 = 1.0 =
 * Initial Release
