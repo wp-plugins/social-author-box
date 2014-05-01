@@ -1,0 +1,58 @@
+.author-box p {}
+.author-box .author-photo-wrapper {
+	padding-bottom: 19px;
+	border-bottom: 1px solid #eeeeee;
+	margin-bottom: 20px;
+}
+.author-box .author-photo {
+	border-radius: 96px;
+	width: 96px;
+	height: 96px;
+	overflow: hidden;
+	display: block;
+	margin: 0 auto;
+}
+.author-box .author-description {
+	text-align: left;
+}
+.author-box .author-social-links {
+	text-align: left;
+}
+.author-box .author-social-links	ul {
+		padding: 0;
+		margin: 0.6em 0 0;
+		list-style-type: none;
+}
+.author-box .author-social-links	ul li {
+	display: inline;
+	margin: 5px 5px -10px 0;
+	font-size: 25px;
+}
+.author-box .author-social-links	ul li a:hover {
+	text-decoration: none;
+}
+.author-box .author-social-links	ul li.facebook a {
+	color: #3B5998;
+}
+.author-box .author-social-links	ul li.facebook a:hover {
+	color: #4c70ba;
+}
+.author-box .author-social-links	ul li.twitter a {
+	color: #428bca;
+}
+.author-box .author-social-links	ul li.twitter a:hover {
+	color: #2a6496;
+}
+.author-box .author-social-links	ul li.linkedin a {
+	color: #428bca;
+}
+.author-box .author-social-links	ul li.linkedin a:hover {
+	color: #2a6496;
+}
+.author-box .author-social-links	ul li.googleplus a {
+	color: #dd4b38;
+}
+.author-box .author-social-links	ul li.googleplus a:hover {
+	color: #c13321;
+}
+
