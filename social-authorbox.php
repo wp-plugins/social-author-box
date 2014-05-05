@@ -6,7 +6,7 @@ Description: Creates an "Author Box" Widget with the author's picture, bio and s
 Author: Leander Lindahl
 Author URI: http://popolo.se/
 License: GPL2
-Version: 1.1
+Version: 1.11
 */
 
 /* Add the new Contact Methods to user profile */

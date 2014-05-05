@@ -3,7 +3,7 @@ Contributors: leanderlindahl
 Tags: author-box
 Requires at least: 3.5
 Tested up to: 3.9
-Stable tag: 1.1
+Stable tag: 1.11
 
 Creates an "Author Box" Widget with the author's picture, bio and social media links.
 
@@ -32,4 +32,6 @@ http://www.twitter.com/joe-smith
 = 1.0 =
 * Initial Release
 = 1.1 =
+* Added screenshots
+= 1.11 =
 * Added screenshots
