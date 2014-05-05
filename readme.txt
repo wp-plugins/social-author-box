@@ -1,9 +1,12 @@
 === Social Author Box ===
 Contributors: leanderlindahl
+Donate link: http://www.popolo.se/
 Tags: author-box
 Requires at least: 3.5
 Tested up to: 3.9
-Stable tag: 1.11
+Stable tag: 1.12
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Creates an "Author Box" Widget with the author's picture, bio and social media links.
 
@@ -21,6 +24,9 @@ http://www.twitter.com/joe-smith
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add social media profile links on the user profile page
 
+== Frequently Asked Questions ==
+= A question that someone might have =
+An answer to that question.
 
 == Screenshots ==
 
@@ -35,3 +41,14 @@ http://www.twitter.com/joe-smith
 * Added screenshots
 = 1.11 =
 * Added screenshots
+= 1.12 =
+* Renamed screenshots
+
+
+== Upgrade Notice ==
+
+= 1.11 =
+Non essential update. Trying to get screenshots to appear on the plugin page.
+
+= 1.1 =
+Non essential update. Trying to get screenshots to appear on the plugin page.
