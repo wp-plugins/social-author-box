@@ -1,7 +1,7 @@
 === Social Author Box ===
 Contributors: leanderlindahl
 Donate link: http://www.popolo.se/
-Tags: author-box
+Tags: author-box, sidebar
 Requires at least: 3.5
 Tested up to: 3.9
 Stable tag: 1.12
@@ -46,6 +46,9 @@ An answer to that question.
 
 
 == Upgrade Notice ==
+
+= 1.12 =
+Non essential update. Trying to get screenshots to appear on the plugin page.
 
 = 1.11 =
 Non essential update. Trying to get screenshots to appear on the plugin page.
