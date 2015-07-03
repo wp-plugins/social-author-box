@@ -1,10 +1,10 @@
 === Social Author Box ===
 Contributors: leanderlindahl
-Donate link: http://www.popolo.se/
+Donate link: http://www.popolo.se/social-authorbox/
 Tags: author-box, sidebar
 Requires at least: 3.5
-Tested up to: 3.9
-Stable tag: 1.12
+Tested up to: 4.2
+Stable tag: 1.13
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,8 +25,8 @@ http://www.twitter.com/joe-smith
 3. Add social media profile links on the user profile page
 
 == Frequently Asked Questions ==
-= A question that someone might have =
-An answer to that question.
+= I need to have two widgets on the side bar for two different authors with different social links - can this be done? =
+No, the widget gets the author info from the user account that created the post. Even if a post can have two authors only one user account can create the post.
 
 == Screenshots ==
 
@@ -43,6 +43,8 @@ An answer to that question.
 * Added screenshots
 = 1.12 =
 * Renamed screenshots
+= 1.13 =
+* Added wp.org graphics and a FAQ-question
 
 
 == Upgrade Notice ==
